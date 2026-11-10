@@ -33,8 +33,9 @@ I am a multi-disciplinary software engineer and creative technologist based in N
 ### 🤝 Open to Collaboration
 I’m looking to collaborate on open-source Python tools, modern full-stack web applications, AI integrations, and high-impact software engineering projects.
 
-* **Email:** `samanyriky.com@gmail.com`
+* **Email:** `sammyrichy.com@gmail.com`
 * **GitHub:** [@Samflixdp](https://github.com/Samflixdp)
+* **Contact:** +234 7088242649
 
 ---
 
